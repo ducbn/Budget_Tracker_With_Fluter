@@ -24,21 +24,4 @@
 - **Firebase Authentication** (Xác thực người dùng).
 - **Dart** (Ngôn ngữ lập trình).
 
----
-
----
-
-## 📌 TODO & Hướng phát triển
-🔹 **Hỗ trợ đa nền tảng (iOS, Web)**.
-🔹 **Nhắc nhở chi tiêu & lập ngân sách tự động**.
-🔹 **Tích hợp AI để phân tích tài chính cá nhân**.
-🔹 **Kết nối tài khoản ngân hàng để tự động cập nhật giao dịch**.
-
----
-
-## 💡 Đóng góp
-
-# Nguyễn Danh Hiếu 22010104
-# Vũ Thành Dương 22010501
-# Phạm Văn Thân 22010593
 
